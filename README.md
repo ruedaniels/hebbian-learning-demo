@@ -82,4 +82,3 @@ This balances growth and pruning, keeping the network from saturating.
 
 - Hebb, D.O. (1949). *The Organization of Behavior*. Wiley & Sons.
 - Hopfield, J.J. (1982). Neural networks and physical systems with emergent collective computational abilities. *PNAS*, 79(8), 2554–2558.
-Save it as README.md in the root of your hebbian-demo folder (not inside src). Tell me when done and we'll push everything to GitHub.11:25 AM
