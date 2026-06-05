@@ -40,6 +40,8 @@ npm run dev
 
 Then open http://localhost:5173 in your browser.
 
+![Hebbian Learning Demo](public/screenshots/demo.png)
+
 ## How to Use
 
 - **Click a neuron** to fire it manually
